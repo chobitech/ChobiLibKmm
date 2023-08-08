@@ -1,4 +1,4 @@
-package com.chobitech.lib.android.composable
+package com.chobitech.lib.composable
 
 import androidx.activity.ComponentActivity
 
