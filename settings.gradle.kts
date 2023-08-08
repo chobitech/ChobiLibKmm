@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ChobiLibKmm"
 include(":app")
+include(":ChobiLibKmm")
